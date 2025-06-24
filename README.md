@@ -3,6 +3,8 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="500"/>
 </p>
 
+
+
 <h1 align="center">Hi 👋, I'm Hemant Jadhav</h1>
 <p align="center">
   <strong>Blockchain Dev • Full Stack Developer • Future Project Manager • 3rd Year CS Undergrad @TSEC</strong>
@@ -114,7 +116,10 @@
   <a href="https://linkedin.com/in/hemantjadhav1600"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <!-- Add your portfolio link once available -->
 </p>
-
+-----------------------
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</p>
 ---
 
 <p align="center">"Code to create. Learn to lead. Build to impact."</p>
