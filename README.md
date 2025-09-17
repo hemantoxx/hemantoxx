@@ -18,14 +18,18 @@
 ---
 
 ### 🧠 About Me
-
-- 🎯 Aspiring **Project Manager at JP Morgan**, future **MBA grad**
-- 💡 Passionate about **Blockchain, Web Dev, AI/ML, and Hackathons**
-- 👨‍💻 Solved **450+ DSA Problems** | Good at Java and Backend Logic
-- 🧾 Certified: **Blockchain (IIT Kanpur), Azure-900, Full Stack, DSA**
+- - **B.Tech in Computer Engineering** – Thadomal Shahani Engineering College (TSEC), Mumbai University  
+- **Higher Secondary Certificate (HSC)** – Bhavan’s College  
+- **Secondary School Certificate (SSC)** – Holy Family High School  
 - 🎸 Currently learning **Guitar chords** to balance the dev life
 
 ---
+
+### 🎯 Interests
+- 📊 Data Analytics & Finance  
+- 🌐 Full Stack & Backend Development  
+- ⛓ Blockchain-based Applications  
+- 👔 Project Management  
 ### ⚙️ Tech Stack
 
 #### 🧑‍💻 Languages
