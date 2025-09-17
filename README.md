@@ -7,12 +7,11 @@
 
 <h1 align="center">Hi 👋, I'm Hemant Jadhav</h1>
 <p align="center">
-  <strong>Blockchain Dev • Full Stack Developer • Future Project Manager • 3rd Year CS Undergrad @TSEC</strong>
+  <strong>Buisness Analyst • Data Analyst • Future Project Manager • 4th Year CS Undergrad • Data Scientist @TSEC</strong>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8E8&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%7C+ML+Researcher;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
 </p>
-
 
 
 ---
@@ -24,13 +23,19 @@
 - 🎸 Currently learning **Guitar chords** to balance the dev life
 
 ---
+### 🧰 Skills & Tools
+- **Programming**: Python, Java, SQL, R  
+- **Data Science & ML**: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch  
+- **Data Visualization**: Matplotlib, Seaborn, Power BI, Tableau  
+- **Databases**: MySQL, MongoDB  
+- **Cloud & Tools**: Git/GitHub, AWS, Azure (AZ-900 Certified), Docker  
+
 
 ### 🎯 Interests
-- 📊 Data Analytics & Finance  
-- 🌐 Full Stack & Backend Development  
-- ⛓ Blockchain-based Applications  
-- 👔 Project Management  
-### ⚙️ Tech Stack
+- 📊 Machine Learning & Predictive Analytics  
+- 🧠 Deep Learning & NLP  
+- 🌐 Data-driven Business Insights  
+- 👔 Applying Data Science to Finance & Project Management 
 
 #### 🧑‍💻 Languages
 <p align="center">
